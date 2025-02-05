@@ -1,1 +1,1 @@
-# Where-s-Waldo-A-Photo-Tagging-App-
+# Where-s-Waldo-A-Photo-Tagging-App
